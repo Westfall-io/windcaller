@@ -1,2 +1,2 @@
 # windcaller
-Artifact Webhook
+Container image downloader for local hosting.
